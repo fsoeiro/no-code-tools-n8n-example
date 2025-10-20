@@ -78,8 +78,6 @@ To enable monitoring and future improvements, all interactions are logged via th
 
 ## Key Takeaways
 
-This project demonstrates how no-code tools like **n8n** can dramatically reduce the barrier to entry for automation and AI integration. Even with no programming background, it’s possible to build complex, multi-service systems that combine real-time communication, language models, and structured data storage.
-
-By experimenting with this approach, I learned how no-code workflows can evolve from personal experiments into powerful prototypes — ready to assist, scale, and inspire future projects focused on self-development and well-being.
+This project demonstrates how no-code tools like **n8n** can dramatically reduce the barrier to entry for automation and AI integration. Even with no programming background, it’s possible to build complex, multi-service systems that combine real-time communication, language models, and structured data storage. No-code workflows can evolve from personal experiments into powerful prototypes — ready to assist, scale, and inspire future projects focused on self-development and well-being.
 
 ---
