@@ -13,7 +13,7 @@ The workflow was entirely developed using **free resources**:
 - Telegram integration via a personal bot created using [BotFather](https://core.telegram.org/bots#botfather)  
 - Google Sheets for data logging  
 
-Threfore, no costs were incurred throughout the process.
+Therefore, no costs were incurred throughout the process.
 
 ---
 
